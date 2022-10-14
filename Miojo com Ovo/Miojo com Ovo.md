@@ -1,4 +1,6 @@
-### Miojo com Ovo :Tigela quente:
+### Miojo com Ovo
+
+![Miojo com Ovo](https://gourmetviajante.com.br/0816/wp-content/uploads/2020/11/Receita-do-Miojo-perfeito.jpg)
 
 ### Ingredientes 
 
@@ -7,10 +9,8 @@
 - Água - quantidade indicada na embalagem
 - Tempero
 - Requeijão (se desejar algo mais cremoso)
-
+- 
 ### Modo de Preparo
-
-! [Miojo com Ovo](https://gourmetviajante.com.br/0816/wp-content/uploads/2020/11/Receita-do-Miojo-perfeito.jpg)
 
 1. Ferva a água.
 2. Cozinhe o miojo por 2 minutos, depois acrescente os ovos.
