@@ -1,6 +1,6 @@
-# Cuscuz Recheado :Tigela de comida:
+# Cuscuz Recheado
 
-! [Cuscuz Recheado](https://receitinhas.com.br/wp-content/uploads/2022/04/Cuscuz-Recheado-Imagem-por-Tudo-Gostoso-730x365.webp)
+![Cuscuz Recheado](https://receitinhas.com.br/wp-content/uploads/2022/04/Cuscuz-Recheado-Imagem-por-Tudo-Gostoso-730x365.webp)
 
 ### Ingredientes 
 
