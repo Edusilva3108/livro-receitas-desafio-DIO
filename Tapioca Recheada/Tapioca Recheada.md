@@ -1,6 +1,6 @@
-# Tapioca Recheada :Cozinha:
+# Tapioca Recheada 
 
-![Tapioca Recheada](https://www.saboresajinomoto.com.br/_dist/images/template/blank.gif)
+![Tapioca Recheada](https://receitascluboficial.com.br/wp-content/uploads/2022/04/tapioca-de-frango_receitas-club-.webp)
 
 ### Ingredientes
 
