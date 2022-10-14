@@ -1,5 +1,7 @@
 # Cuscuz Recheado :Tigela de comida:
 
+! [Cuscuz Recheado](https://receitinhas.com.br/wp-content/uploads/2022/04/Cuscuz-Recheado-Imagem-por-Tudo-Gostoso-730x365.webp)
+
 ### Ingredientes 
 
 - 1 colher (sopa) de Deline
@@ -15,8 +17,6 @@
 - 2 colheres (sopa) de Deline
 
 ### Modo de Preparo
-
-! [Cuscuz Recheado](https://receitinhas.com.br/wp-content/uploads/2022/04/Cuscuz-Recheado-Imagem-por-Tudo-Gostoso-730x365.webp)
 
 1. Em uma panela pequena, coloque a Deline e leve ao fogo médio.
 2. Adicione a cebola, o tomate e misture.
