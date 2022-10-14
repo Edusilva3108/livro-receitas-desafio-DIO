@@ -1,7 +1,7 @@
 # Livro de receitas 👨‍🍳
 Bem vindos ao meu livro de receitas do Desafio de projeto sobre Git e GitHub
 
-- [Bolo de Mandioca](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/tree/main/Bolo%20de%20Mandioca)
+- [Bolo de Mandioca](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/blob/main/Bolo%20de%20Mandioca/Bolo%20de%20Mandioca.md)
 - [Cuscuz Recheado](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/tree/main/Cuscuz%20Recheado)
 - [Miojo com Ovo](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/tree/main/Miojo%20com%20Ovo)
 - [Tapioca Recheada](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/tree/main/Tapioca%20Recheada)
