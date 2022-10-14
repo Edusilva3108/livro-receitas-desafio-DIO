@@ -1,5 +1,7 @@
 # Tapioca Recheada :Cozinha:
 
+![Tapioca Recheada](https://www.saboresajinomoto.com.br/_dist/images/template/blank.gif)
+
 ### Ingredientes
 
 - 1 colher (sopa) de Azeite de Oliva Extra Virgem TERRANO®
@@ -9,8 +11,6 @@
 - meia cebola pequena picada
 - 1 peito de frango grande, cozido e desfiado (400 g)
 - 2 e meia xícaras (chá) de goma pronta para tapioca (375 g)
-
-![Tapioca Recheada](https://www.saboresajinomoto.com.br/_dist/images/template/blank.gif)
 
 ### Modo de Preparo
 
