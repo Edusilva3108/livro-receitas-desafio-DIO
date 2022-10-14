@@ -1,4 +1,4 @@
-# Livro de receitas desafio DIO 👨‍🍳
+# Livro de receitas 👨‍🍳
 Bem vindos ao meu livro de receitas do Desafio de projeto sobre Git e GitHub
 
 - [Bolo de Mandioca](https://github.com/Edusilva3108/livro-receitas-desafio-DIO/tree/main/Bolo%20de%20Mandioca)
