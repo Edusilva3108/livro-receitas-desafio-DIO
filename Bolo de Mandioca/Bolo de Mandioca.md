@@ -1,4 +1,6 @@
-# Bolo de Mandioca :Bolo De Aniversário:
+# Bolo de Mandioca 
+
+![Bolo de Mandioca](https://cooknenjoy.com/wp-content/uploads/2017/05/bolo-de-mandioca.jpg)
 
 ### Ingredientes
 
@@ -9,8 +11,6 @@
 - 500g de mandioca ralada
 
 ### Modo de Preparo
-
-![Bolo de Mandioca](https://cooknenjoy.com/wp-content/uploads/2017/05/bolo-de-mandioca.jpg)
 
 1. Em uma tigela, coloque os ovos, o açúcar e a Deline e misture bem com um batedor de arame (fouet) ou na batedeira até que a mistura fique homogênea;
 2. Em seguida misture o leite de coco e a mandioca ralada;
